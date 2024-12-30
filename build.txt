@@ -1,0 +1,3 @@
+displayName = Terraria+
+author = Catgameplay
+version = 0.1
